@@ -75,6 +75,13 @@ healthPotionY = random(30,height-30);
 
 enemyX = width-80;
 enemyY = 80;
+   swordsound.setVolume(0.1);
+  stabbedsound.setVolume(0.1);
+  gotpotionsound.setVolume(0.1);
+  victorysound.setVolume(0.1);
+  defeatsound.setVolume(0.1);
+  warningsound.setVolume(0.1);
+  warningsound.setVolume(0.1);
 }
 
 
